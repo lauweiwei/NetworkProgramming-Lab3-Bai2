@@ -1,0 +1,20 @@
+D:\vivi\Buoi3-Bai2\Buoi3-Bai2\bin\Debug\Buoi3-Bai2.exe.config
+D:\vivi\Buoi3-Bai2\Buoi3-Bai2\bin\Debug\Buoi3-Bai2.exe
+D:\vivi\Buoi3-Bai2\Buoi3-Bai2\bin\Debug\Buoi3-Bai2.pdb
+D:\vivi\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\vivi\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Buoi3_Bai2.Form1.resources
+D:\vivi\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Buoi3_Bai2.Properties.Resources.resources
+D:\vivi\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\vivi\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\vivi\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Buoi3-Bai2.exe
+D:\vivi\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Buoi3-Bai2.pdb
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Buoi3-Bai2\bin\Debug\Buoi3-Bai2.exe.config
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Buoi3-Bai2\bin\Debug\Buoi3-Bai2.exe
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Buoi3-Bai2\bin\Debug\Buoi3-Bai2.pdb
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Buoi3_Bai2.Form1.resources
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Buoi3_Bai2.Properties.Resources.resources
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Buoi3-Bai2.exe
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Buoi3-Bai2\obj\Debug\Buoi3-Bai2.pdb

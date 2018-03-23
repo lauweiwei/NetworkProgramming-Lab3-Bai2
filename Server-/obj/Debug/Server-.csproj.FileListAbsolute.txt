@@ -1,0 +1,14 @@
+D:\vivi\Buoi3-Bai2\Server-\bin\Debug\Server-.exe.config
+D:\vivi\Buoi3-Bai2\Server-\bin\Debug\Server-.exe
+D:\vivi\Buoi3-Bai2\Server-\bin\Debug\Server-.pdb
+D:\vivi\Buoi3-Bai2\Server-\obj\Debug\Server-.csprojResolveAssemblyReference.cache
+D:\vivi\Buoi3-Bai2\Server-\obj\Debug\Server-.csproj.CoreCompileInputs.cache
+D:\vivi\Buoi3-Bai2\Server-\obj\Debug\Server-.exe
+D:\vivi\Buoi3-Bai2\Server-\obj\Debug\Server-.pdb
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Server-\bin\Debug\Server-.exe.config
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Server-\bin\Debug\Server-.exe
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Server-\bin\Debug\Server-.pdb
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Server-\obj\Debug\Server-.csprojResolveAssemblyReference.cache
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Server-\obj\Debug\Server-.csproj.CoreCompileInputs.cache
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Server-\obj\Debug\Server-.exe
+E:\HUFLIT Junior\Network Programming\Buoi3-Bai2\Server-\obj\Debug\Server-.pdb
